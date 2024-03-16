@@ -1,0 +1,10 @@
+# Docker-specific files
+/Dockerfile
+/.dockerignore
+
+# Git configuration and data files
+/.git
+/.gitignore
+
+# GitHub Actions CI/CD support files
+/.github
