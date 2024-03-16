@@ -8,3 +8,6 @@
 
 # GitHub Actions CI/CD support files
 /.github
+
+# documentation
+README.md
